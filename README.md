@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @schandu-eng
-- 👀 I’m interested in Web Development,Ai,competitive coding and Designing
+- 👀 I’m interested in Web Development,Ai,Competitive programming and Designing
 - 🌱 I’m currently Learning at Indian Institute of Information and Technology
-- 💞️ I’m looking to collaborate on everything I may do...
+- 💞️ ...........
 - 📫 How to reach me souravchandawad@gmail.com...
 
 <!---
